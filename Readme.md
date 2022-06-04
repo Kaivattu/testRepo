@@ -1,1 +1,3 @@
 SomeText
+
+new in Master
